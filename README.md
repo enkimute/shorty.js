@@ -1,4 +1,4 @@
-# shorty.js - Efficient compression of streams of short JSON strings
+# shorty.js - Efficient compression of short strings
 
 <IMG SRC="shorty.jpg">
 
