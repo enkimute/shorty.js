@@ -130,7 +130,7 @@
   };
 
   Shorty.prototype.readByte = function() {
-    res = 0;
+    var res = 0;
     for (var i=0; i<8; i++) res += (128>>i)*this.readBit();
     return String.fromCharCode(res);
   };
